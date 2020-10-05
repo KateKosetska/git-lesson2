@@ -1,1 +1,2 @@
-Git lesson
+Git lesson!
+So try it
